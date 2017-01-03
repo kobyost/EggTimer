@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
             updateTimer(progress);
-
+            //testing commit 2
             }
 
             @Override
